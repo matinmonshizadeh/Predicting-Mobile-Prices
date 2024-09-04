@@ -1,4 +1,4 @@
-# Product-Price-Predictor
+# Predicting Mobile Prices
 
 - **Linear Algebra Project (Spring 2024)**
 - [Click](https://github.com/matinmonshizadeh/Linear-Algebra-Project/blob/main/LinearAlgebraProject.pdf)  to see additional details about this project.
