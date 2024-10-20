@@ -5,9 +5,7 @@
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
 ## Introduction
-This project applies linear algebra to predict product prices using data extracted from e-commerce sites. Participants will
-gather and transform data, then train and evaluate a linear regression model. Through hands-on experience, they will
-enhance their understanding of data analysis and regression techniques in real-world applications.
+In this project, we extracted data from an e-commerce site using the Selenium library in Python. After collecting the data, we performed data cleaning and transformation to prepare it for analysis. We then trained and evaluated a linear regression model to predict mobile prices. Finally, we developed a user-friendly application using the Tkinter library, which allows users to predict the price of a mobile phone based on inputs like Brand, SIM count, Storage, RAM, and color.
 
 Our project contains these steps:
 - 1.1 Data Collection
